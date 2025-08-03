@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Welcome to the Bank App</h1>
-        <p>Your one-stop solution for all banking needs. I love you mage pana</p>
+        <p>Your one-stop solution for all banking needs.</p>
       </header>
     </div>
   );
